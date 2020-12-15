@@ -2,7 +2,7 @@
 
 ## Stats
 ![Pengwiu's github stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pengwius)
-![Pengwiu's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pengwius)
+
 <!--
 **Pengwius/pengwius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
