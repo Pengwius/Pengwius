@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## Here are some stats that don't mean anything but look cool, and everyone has them
+### Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Pengwius&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)
 
