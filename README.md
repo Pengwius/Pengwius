@@ -1,14 +1,12 @@
 # "Hello World!" 👋
 
-
-
 ## Stats
 
 ![Pengwiu's stats](https://github-readme-stats.vercel.app/api?username=Pengwius&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=false&hide_border=true&cache_seconds=1800)
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Pengwius&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=false&hide_border=true&cache_seconds=1800)
 
-## Used technology
+## I'm using
 ![swift](https://img.shields.io/static/v1?message=Swift&style=for-the-badge&label=&logo=swift&logoColor=FFFFFF&color=F05138&cacheSeconds=86400)
 ![python](https://img.shields.io/static/v1?message=Python&style=for-the-badge&label=&logo=python&logoColor=FFFFFF&color=3776AB&cacheSeconds=86400)
 ### Sometimes
