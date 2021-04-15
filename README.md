@@ -15,10 +15,10 @@
 
 ## Contributed to
 [![Wulkanowy](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy) <br/>
-[![Szkolny](https://github-readme-stats.vercel.app/api/pin/?username=szkolny-eu&repo=szkolny-android&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy) <br/>
-[![Wulkanowy-ios](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy-ios&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy) <br/>
-[![Wulkanowy-web](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy-web&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy) <br/>
-[![Web-radio](https://github-readme-stats.vercel.app/api/pin/?username=web-radio&repo=webradio&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy) <br/>
+[![Szkolny](https://github-readme-stats.vercel.app/api/pin/?username=szkolny-eu&repo=szkolny-android&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/szkolny-eu/szkolny-android) <br/>
+[![Wulkanowy-ios](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy-ios&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy-ios) <br/>
+[![Wulkanowy-web](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy-web&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy-web) <br/>
+[![Web-radio](https://github-readme-stats.vercel.app/api/pin/?username=web-radio&repo=webradio&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/web-radio/webradio) <br/>
 
 
 <!--- 🔭 I’m currently working on wulkanowy-web, maybe in future on wulkanowy-ios
