@@ -9,9 +9,12 @@
 ## I'm using
 ![swift](https://img.shields.io/static/v1?message=Swift&style=for-the-badge&label=&logo=swift&logoColor=FFFFFF&color=F05138&cacheSeconds=86400)
 ![python](https://img.shields.io/static/v1?message=Python&style=for-the-badge&label=&logo=python&logoColor=FFFFFF&color=3776AB&cacheSeconds=86400)
-### Sometimes
 ![kotlin](https://img.shields.io/static/v1?message=Kotlin&style=for-the-badge&label=&logo=kotlin&logoColor=FFFFFF&color=ED861E&cacheSeconds=86400)
 ![ts](https://img.shields.io/static/v1?message=Typescript&style=for-the-badge&label=&logo=typescript&logoColor=FFFFFF&color=26659A&cacheSeconds=86400)
+![react](https://img.shields.io/static/v1?message=React&style=for-the-badge&label=&logo=react&logoColor=FFFFFF&color=2665DF&cacheSeconds=86400)
+![neovim](https://img.shields.io/static/v1?message=Neovim&style=for-the-badge&label=&logo=neovim&logoColor=FFFFFF&color=26A99A&cacheSeconds=86400)
+
+[![wakatime](https://wakatime.com/badge/user/7ed6869b-9352-42d5-8e0c-d6bf88160404.svg)](https://wakatime.com/@7ed6869b-9352-42d5-8e0c-d6bf88160404)
 
 ## Contributed to
 [![Wulkanowy](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy) <br/>
