@@ -83,7 +83,7 @@
 [![Web-radio](https://github-readme-stats.vercel.app/api/pin/?username=web-radio&repo=webradio&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/web-radio/webradio) <br/>
 
 ## If you looking for some developer cloud, you can use my reflink and get free $100 for 2 months on DigitalOcean
-<a href="https://www.digitalocean.com/?refcode=4af98c8ecbd7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=4af98c8ecbd7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <!--- 🔭 I’m currently working on wulkanowy-web, maybe in future on wulkanowy-ios
 - 🌱 I’m currently learning web-development, mobile-development
