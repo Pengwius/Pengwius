@@ -22,10 +22,10 @@ contact me on matrix: @pengwius:matrix.org
 
 [![wakatime](https://wakatime.com/badge/user/7ed6869b-9352-42d5-8e0c-d6bf88160404.svg)](https://wakatime.com/@7ed6869b-9352-42d5-8e0c-d6bf88160404)
 
-## My GPG public key
+## My PGP public key
 <details>
   <summary>
-    GPG public key
+    PGP public key
   </summary>
   
     -----BEGIN PGP PUBLIC KEY BLOCK-----
